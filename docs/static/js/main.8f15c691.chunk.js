@@ -19,7 +19,11 @@
 						children: "@milize.shop"
 					}), Object(l.jsx)("h2", {
 						className: "bio",
-						children: "Milize Shop:teddy_bear::sparkles:\no รับ True wallet | Bank \no ส่งของทุกศุกร์~ตัดรอบ 22:00 :package:\no สินค้าพรี #prewithmilize พร้อมส่ง #milizeshop\nー:envelope: สั่งของ  dm หรือจิ้ม:point_down_tone1:"
+						children: "Milize Shop🧸✨
+o รับ True wallet | Bank 
+o ส่งของทุกศุกร์~ตัดรอบ 22:00 📦
+o สินค้าพรี #prewithmilize พร้อมส่ง #milizeshop
+ー✉️ สั่งของ  dm หรือจิ้ม👇🏻"
 					})]
 				})
 			},
