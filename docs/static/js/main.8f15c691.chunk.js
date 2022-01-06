@@ -59,12 +59,12 @@
 			o = "https://assets.production.linktr.ee/ef928851e29399340d4af70da9c77a3f60e5afad/icons/tabler-icons/",
 			h = "brand-",
 			d = [
-				/*{
-				id: "link-linkedin",
-				link: "https://www.linkedin.com/in/augusticor/",
-				icon: "".concat(o).concat(h, "linkedin.svg"),
-				label: "LinkedIn"
-			}, {
+				{
+				id: "link-instagram",
+				link: "https://www.instagram.com/milize.shop/",
+				icon: "".concat(o).concat(h, "instagram.svg"),
+				label: "Instagram"
+			}/*, {
 				id: "link-github",
 				link: "https://github.com/augusticor",
 				icon: "".concat(o).concat(h, "github.svg"),
