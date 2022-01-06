@@ -17,13 +17,9 @@
 					}), Object(l.jsx)("h1", {
 						className: "username",
 						children: "@milize.shop"
-					}), Object(l.jsx)("h2", {
+					}), Object(l.jsx)("span", {
 						className: "bio",
-						children: "Milize Shop🧸✨
-o รับ True wallet | Bank 
-o ส่งของทุกศุกร์~ตัดรอบ 22:00 📦
-o สินค้าพรี #prewithmilize พร้อมส่ง #milizeshop
-ー✉️ สั่งของ  dm หรือจิ้ม👇🏻"
+						children: "Milize Shop🧸✨<br>o รับ True wallet | Bank <br>o ส่งของทุกศุกร์~ตัดรอบ 22:00 📦<br>o สินค้าพรี #prewithmilize พร้อมส่ง #milizeshop<br>ー✉️ สั่งของ  dm หรือจิ้ม👇🏻"
 					})]
 				})
 			},
@@ -55,14 +51,15 @@ o สินค้าพรี #prewithmilize พร้อมส่ง #milizesho
 				})
 			});
 		a.defaultProps = {
-			link: "https://linktr.ee/",
-			linklabel: "Linkt.ree",
-			icon: "https://assets.production.linktr.ee/ef928851e29399340d4af70da9c77a3f60e5afad/icons/tabler-icons/trees.svg"
+			link: "https://www.instagram.com/milize.shop/",
+			linklabel: "Milize.shop",
+			icon: "https://assets.production.linktr.ee/ef928851e29399340d4af70da9c77a3f60e5afad/icons/tabler-icons/instagram.svg"
 		};
 		var r = a,
 			o = "https://assets.production.linktr.ee/ef928851e29399340d4af70da9c77a3f60e5afad/icons/tabler-icons/",
 			h = "brand-",
-			d = [{
+			d = [
+				/*{
 				id: "link-linkedin",
 				link: "https://www.linkedin.com/in/augusticor/",
 				icon: "".concat(o).concat(h, "linkedin.svg"),
@@ -92,7 +89,7 @@ o สินค้าพรี #prewithmilize พร้อมส่ง #milizesho
 				link: "https://linktr.ee/augusticor",
 				icon: "".concat(o, "trees.svg"),
 				label: "Real linktr.ee"
-			}],
+			}*/],
 			j = function() {
 				return Object(l.jsxs)("main", {
 					className: "links-grid",
