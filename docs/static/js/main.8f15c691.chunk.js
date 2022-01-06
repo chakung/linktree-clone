@@ -12,7 +12,7 @@
 					className: "info",
 					children: [Object(l.jsx)("img", {
 						className: "image",
-						src: "https://instagram.fbkk25-1.fna.fbcdn.net/v/t51.2885-19/s150x150/271320522_138305648603001_7409636868846810441_n.jpg?_nc_ht=instagram.fbkk25-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=8xNX0K-SwvcAX93oCHY&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_L8fL3NqbokCKm5YzIS380PMf6KLzZ4bnQoF4UVK9hyQ&oe=61DDB1D2&_nc_sid=7bff83",
+						src: "/static/profile.jpg",
 						alt: "User profile photography"
 					}), Object(l.jsx)("h1", {
 						className: "username",
