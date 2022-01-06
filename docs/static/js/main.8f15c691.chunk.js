@@ -12,7 +12,7 @@
 					className: "info",
 					children: [Object(l.jsx)("img", {
 						className: "image",
-						src: "/static/profile.jpg",
+						src: "static/profile.jpg",
 						alt: "User profile photography"
 					}), Object(l.jsx)("h1", {
 						className: "username",
